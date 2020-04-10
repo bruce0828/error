@@ -1,5 +1,5 @@
 =============================================================================
-conda 信息
+conda info
 =============================================================================
 C:\Users\ZY>conda info
 
@@ -32,7 +32,7 @@ C:\Users\ZY>conda info
            offline mode : False
 
 =============================================================================
-创建环境变量报错
+create an environment: ERROR
 =============================================================================
 C:\Users\ZY>conda create -n test
 Collecting package metadata (current_repodata.json): done
@@ -155,7 +155,7 @@ future releases of conda.
 Would you like conda to send this report to the core maintainers?
 
 =============================================================================
-用conda install命令报错
+conda install package: ERROR
 =============================================================================
 
 C:\Users\ZY>conda install pandas
